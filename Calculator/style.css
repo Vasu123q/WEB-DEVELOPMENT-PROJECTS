@@ -1,0 +1,130 @@
+body
+{
+    
+   background: linear-gradient(to right,rgb(238, 196, 148), rgb(233, 241, 145),rgb(216, 237, 122));
+    align-items: center;
+   justify-content: center;
+}
+
+.button
+{
+  display: flex;
+  align-items: center;
+  justify-content: center; 
+  padding: 2px; 
+  display: flex;
+  gap: 7px;
+}
+
+.button1
+{
+  display: flex;
+  padding: 2px; 
+  justify-content: center;  
+  display: flex;
+  gap: 7px;
+}
+
+.button2
+{
+  display: flex;
+  align-items: center;
+  justify-content: center;  
+  padding: 2px; 
+  display: flex;
+  gap: 7px;
+}
+
+.button3
+{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2px;   
+  display: flex;
+  gap: 7px;
+}
+
+.button4
+{
+  display: flex;
+  align-items: center;
+  justify-content: center; 
+  padding: 2px;  
+  display: flex;
+  gap: 7px;
+}
+
+.button5
+{
+  display: flex;
+  align-items: center;
+  justify-content: center; 
+  padding: 2px;  
+  display: flex;
+  gap: 7px;
+
+}
+
+button
+{
+    align-items: center;
+    border-radius: 6px;
+    backdrop-filter: blur(5px);
+    width: 60px;
+    height: 60px;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 15px;
+    font-size: 20px;
+
+}
+
+.screen
+{
+    display:flex;
+    justify-content: center;
+    background-color: white;
+    border-radius: 4px;
+    width: 150px;
+    text-align: right;
+    margin-left: 20%;
+    border: 1px solid grey;
+    margin-bottom: 10px;
+    padding: 5px;
+  
+
+    
+
+}
+
+.container
+{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+   width: fit-content;
+   margin: auto;
+   margin-top: 200px;
+    background: rgba(255,255,255,0.35);
+    display: grid;
+    gap: 10px;
+    border-radius: 20px;
+    padding: 20px;
+    
+
+}
+
+
+#but
+{
+  width: 60px;
+  height: 30px;
+  align-items: center;
+  justify-content: center;
+  font-size: medium; 
+  padding-left: 50%;
+  /* background-color: rgba(255,255,255,0.45); */
+  border-radius: 20px;
+}
